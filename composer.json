@@ -1,0 +1,11 @@
+{
+    "name": "daniel/library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Daniel Kemeny",
+            "email": "kemenydani93@gmail.com"
+        }
+    ],
+    "require": {}
+}
