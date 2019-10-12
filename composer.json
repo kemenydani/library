@@ -1,5 +1,7 @@
 {
     "name": "daniel/library",
+    "description": "External library experimenting",
+    "version": "1.0.0",
     "type": "library",
     "authors": [
         {
