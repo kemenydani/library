@@ -5,7 +5,7 @@ namespace lib\service;
 class FooBarService {
 
     public function __construct() {
-        echo 22;
+        echo 223;
     }
 
 }
